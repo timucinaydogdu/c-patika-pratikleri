@@ -1,0 +1,15 @@
+/Users/tipres/Documents/Github/Değişkenler/bin/Debug/net5.0/Değişkenler.deps.json
+/Users/tipres/Documents/Github/Değişkenler/bin/Debug/net5.0/Değişkenler.runtimeconfig.json
+/Users/tipres/Documents/Github/Değişkenler/bin/Debug/net5.0/Değişkenler.runtimeconfig.dev.json
+/Users/tipres/Documents/Github/Değişkenler/bin/Debug/net5.0/Değişkenler.dll
+/Users/tipres/Documents/Github/Değişkenler/bin/Debug/net5.0/ref/Değişkenler.dll
+/Users/tipres/Documents/Github/Değişkenler/bin/Debug/net5.0/Değişkenler.pdb
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.csproj.AssemblyReference.cache
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.AssemblyInfoInputs.cache
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.AssemblyInfo.cs
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.csproj.CoreCompileInputs.cache
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.dll
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/ref/Değişkenler.dll
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.pdb
+/Users/tipres/Documents/Github/Değişkenler/obj/Debug/net5.0/Değişkenler.genruntimeconfig.cache

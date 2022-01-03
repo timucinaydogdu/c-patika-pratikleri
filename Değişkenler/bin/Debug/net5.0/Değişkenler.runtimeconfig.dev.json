@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/tipres/.dotnet/store/|arch|/|tfm|",
+      "/Users/tipres/.nuget/packages"
+    ]
+  }
+}
